@@ -18,3 +18,8 @@ Video link -> https://vimeo.com/1103521316?share=copy
 𝄜 Output Excel File Example: 
 
 <img width="1857" height="717" alt="image" src="https://github.com/user-attachments/assets/e40e166c-6919-45b8-948a-fd408997ecbb" />
+
+<br />
+<br />
+
+PS: Since this application was made with OutSystems, I can't post the source code here, but if you have any questions or curiosities about the application, feel free to send me a message on LinkedIn.
