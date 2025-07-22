@@ -16,7 +16,6 @@ I decided to use OutSystems for the development because I felt that, given the l
 Video link -> https://vimeo.com/1103521316?share=copy
 
 <br />
-<br />
 
 𝄜 Output Excel File Example: 
 
