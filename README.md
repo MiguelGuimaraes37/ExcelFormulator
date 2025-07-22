@@ -10,12 +10,14 @@ I decided to use OutSystems for the development because I felt that, given the l
 
 <br />
 <br />
+
 🎥 I've also prepared a short demo review of the application:
 
 Video link -> https://vimeo.com/1103521316?share=copy
 
 <br />
 <br />
+
 𝄜 Output Excel File Example: 
 
 <img width="1857" height="717" alt="image" src="https://github.com/user-attachments/assets/e40e166c-6919-45b8-948a-fd408997ecbb" />
